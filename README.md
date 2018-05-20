@@ -7,6 +7,7 @@ usage in Linux.
 To execute the script please read its content, using in preference nano editor, and then 
 
 ```
+# chmod 755 monitor.sh
 $ bash monitor.sh 
 ```
 or you can install it, by downloading the script to the computer you want to monitor. 
